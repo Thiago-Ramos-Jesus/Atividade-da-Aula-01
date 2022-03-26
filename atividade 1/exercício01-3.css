@@ -1,0 +1,27 @@
+.div1 {
+    background-color: #ff7fff;
+    height: 500px; 
+    width: 608px;
+}
+.div1-2{
+    background-color: #6060f6; 
+    height: 90%; 
+    width: 90%
+}
+.div1-2 p{
+    color: yellow;
+    background-color: black;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: 600;
+}
+.div2{
+    background-color: rgb(50, 145, 134);
+    width: 46%; 
+    height: 30vh;
+}
+.div2 div{
+    background-color: rgb(123, 234, 21); 
+    width: 40vw; 
+    height: 70%
+}
